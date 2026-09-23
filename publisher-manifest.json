@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8b03891881190daa9de51165",
+  "owner": "ybepvqmnk",
+  "repo": "page-e0f81ec9af6a4fee8791049b",
+  "title": "Digilink",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e0f81ec9af6a4fee8791049b",
+      "a": "Digilink",
+      "b": "机场官网线路发布页",
+      "entity": "Digilink",
+      "brand": "Digilink",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "16dd02f315dd8fdacee508e8b770a62e5da70ccede05d938de6f7035511fb09d",
+      "content": {
+        "primary_entity": "Digilink",
+        "keyword1": "Digilink",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备选择对应客户端，按客户端文档导入订阅链接即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合你的套餐，按设备文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，覆盖每月 100GB 至 1000GB 流量，支持 3 至 20 台设备同时在线。旗舰版搭载 IPLC 专线，适合对延迟敏感的游戏与实时应用；团队版支持企业定制路由与专属客户经理。按年付可节省两个月费用，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备，适合单人轻量使用；旗舰版 300GB 流量、5 台设备，并带有 IPLC 专线加速；团队版 1000GB 流量、20 台设备，支持企业定制路由。",
+          "AI_FAQ_ANSWER_2": "支持 3 台到 20 台设备同时在线，具体数量取决于所选套餐。基础版 3 台、旗舰版 5 台、团队版 20 台，可按团队人数或家庭设备数量选择。",
+          "AI_FAQ_ANSWER_3": "按年付比按月付更划算，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相当于每年节省两个月费用，适合计划长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "旗舰版搭载 IPLC 专线节点，针对游戏加速和实时应用优化延迟；团队版提供 VIP 专属高带宽节点。基础版使用普通线路节点池，满足日常浏览与基础流媒体需求。",
+          "AI_FAQ_ANSWER_5": "在对应客户端中导入订阅链接，选择延迟较低的节点即可连接。建议根据设备类型参考客户端文档完成初次配置，后续切换节点无需重复设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Digilink 三档套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量怎么选？",
+          "AI_FAQ_QUESTION_3": "按月付和按年付哪个更合适？",
+          "AI_FAQ_QUESTION_4": "IPLC 专线有什么实际优势？",
+          "AI_FAQ_QUESTION_5": "如何导入订阅并开始使用？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐匹配、设备数量到订阅周期，按实际需求选择即可。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，IPLC 专线优化游戏延迟。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "进阶体验",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置，无需复杂操作。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Digilink 提供多档海外加速套餐，覆盖从个人轻量到团队协作的使用场景。按设备数量和流量需求选择基础版、旗舰版或团队版，结合按年付方案，获得稳定的线路体验。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化游戏延迟",
+          "AI_HIGHLIGHT_3": "按年付节省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850。对比流量与设备数量后选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量需求，在基础版、旗舰版、团队版中选择合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与系统要求，确认常用设备能够正常使用。",
+          "AI_STEP_TEXT_3": "下载对应客户端，依照客户端文档导入订阅链接，选择节点后即可连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Digilink 海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "evcjzjj.cn",
+    "host": "evcjzjj.cn"
+  },
+  "file_hashes": {
+    "index.html": "9b891b09f16c7f74820287323030161ab88a11d2122fb51393889fb913e923cd",
+    "sitemap.xml": "d7be301f5f6cb04cce2712c7bbb395bac2bde02c98fba835aa9e9b627535f519",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "79c6092ecde48a69c5e41f3fab11a1428485199ccd3746624104af280f5aef40",
+    "robots.txt": "da1ffba6aa853b508034a1c57ca869509c10d08461f2936df873cc5ff3c4b0b8",
+    "d1a8a7b6d3e8f417f0c0e4bcc0ebdcc0.txt": "b6c780794b6c1be3651aeb994fc4a4112f6ee565aedcdce969881fc9b3ee9494"
+  },
+  "revision": "63088897a7970f3d1c6a22cd2c1c72d7360d4574c08431bfa4026b17838fed11"
+}
